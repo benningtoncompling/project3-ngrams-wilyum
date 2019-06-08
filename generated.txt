@@ -1,0 +1,25 @@
+\1 grams:
+<s> to was p. if among scenery off </s> 
+<s> do sunday said have learned , my won it apoplectic says calculated it splash . has </s> 
+<s> you to of gone leave who and and </s> 
+<s> in with . -- shortcoming , nickleby this . puffed steady-looking one have don , down wanted of </s> 
+<s> and as startling , a off and the who ? they as service at her and don of in most gets palms her it , telling wy being for that tupman into this , the she s </s> 
+
+\2 grams:
+<s> guppy , namby would be certain institution ’ said sam . </s>
+<s> mr. pickwick was ever seen . </s>
+<s> i say nice man i should be fretting , i thank you then , dame durden ? ’ t help me writhe . ' said peggotty and as they are ! ” said : ‘ you what compensation for we shouldn ’ ‘ if it , near me and mrs merdle , and prove this is appreciated the hundreds of having died . </s>
+<s> corney . </s>
+<s> in his way upstairs . </s>
+
+\3 grams:
+<s> encouraging each other every now and then the other fugitive , hard-pressed , takes her bonnet as a manufactory of the lunch was soon quiet and in her neat and as the only circumstance which has been hard to answer , he shone through the rusted bars , and entreating to be always guarded . </s>
+<s> at which he had made to suit our purpose best , first to come away from here , i ’ m ’ n on ’ t know what they are mean and cruel this vague suspicion and misunderstanding were the only observable alterations in his expression and an umbrella , with the question , he did , holding up this short colloquy ; ‘ oh ! ’ said the exasperated bounderby , with a show of confidence , who , on which his skill , the strange mutability of human hedgehog rolled up to goswell street , deeply disappointed . </s>
+<s> as my letters to throw in a bad life too short after so long as they had talked rather at any other person helping in these very affairs . </s>
+<s> the stryver arrears were handsomely fetched up ; how i hoped so , for time . </s>
+<s> his face . </s>
+
+Time:
+Unigrams: 0.4571230411529541
+Bigrams: 51.059662103652954
+Trigrams: 345.33178901672363
